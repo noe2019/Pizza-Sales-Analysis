@@ -1,10 +1,5 @@
 # Pizza-Sales-Analysis
-Here’s how the GitHub README file can be structured for your Pizza Sales Analysis project, including insights from the attached images and the dataset:
-
 ---
-
-# Pizza Sales Analysis and Insights
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
